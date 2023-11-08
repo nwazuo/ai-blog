@@ -1,6 +1,6 @@
 ---
 title: The Future of Artificial Intelligence in Healthcare
-featuredImageURL: https://picsum.photos/400/240
+featuredImageURL: https://picsum.photos/400/240?v=if4
 publishedAt: 2023-10-04T12:00:00Z
 tags:
   - AI

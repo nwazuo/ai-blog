@@ -1,6 +1,6 @@
 ---
 title: The Ethics of Artificial Intelligence
-featuredImageURL: https://picsum.photos/400/240
+featuredImageURL: https://picsum.photos/400/240?v=li3
 publishedAt: 2023-10-04T12:00:00Z
 tags:
   - AI
