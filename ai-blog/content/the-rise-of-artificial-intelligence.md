@@ -1,8 +1,11 @@
 ---
 title: The Rise of Artificial Intelligence
-featuredImageURL: https://picsum.photos/200/300
+featuredImageURL: https://picsum.photos/400/240
 publishedAt: 2023-10-04T12:00:00Z
-tags: AI, machine learning, artificial general intelligence
+tags:
+  - AI
+  - machine learning
+  - artificial general intelligence
 ---
 
 # The Rise of Artificial Intelligence

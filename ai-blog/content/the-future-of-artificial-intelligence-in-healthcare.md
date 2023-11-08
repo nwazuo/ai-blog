@@ -1,8 +1,11 @@
 ---
 title: The Future of Artificial Intelligence in Healthcare
-featuredImageURL: [Image of a doctor using an AI-powered medical device]
+featuredImageURL: https://picsum.photos/400/240
 publishedAt: 2023-10-04T12:00:00Z
-tags: AI, healthcare, medicine
+tags:
+  - AI
+  - healthcare
+  - medicine
 ---
 
 # The Future of Artificial Intelligence in Healthcare
